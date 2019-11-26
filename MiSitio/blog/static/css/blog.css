@@ -1,0 +1,18 @@
+h1{
+    color:yellow;
+}
+h1 a {
+    color: yellow;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body{
+    background-color: chocolate;
+    color:white;
+    font-family: 'Segoe ui';
+}
+
+p{
+  font-family: Tahoma;  
+}
+
